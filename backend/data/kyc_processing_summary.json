@@ -1,0 +1,480 @@
+{
+  "source": "synthetic local dataset",
+  "documents_processed": 47,
+  "applicants_processed": 12,
+  "status_counts": {
+    "MANUAL_REVIEW": 47
+  },
+  "results": [
+    {
+      "applicant_id": "K01",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K01",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K01",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K01",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K02",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K02",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K02",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K02",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K03",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K03",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K03",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K03",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K04",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K04",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K04",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K04",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K05",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K05",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K05",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K06",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K06",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K06",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K06",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K07",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K07",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K07",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K07",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K08",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K08",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K08",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K08",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K09",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K09",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K09",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K09",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K10",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K10",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K10",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K10",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K11",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K11",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K11",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K11",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K12",
+      "document_type": "address_proof",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K12",
+      "document_type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K12",
+      "document_type": "signatory_id",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    },
+    {
+      "applicant_id": "K12",
+      "document_type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "fields": {},
+      "field_confidence": {
+        "document": 0.0
+      },
+      "reason": "Local OCR dependency is unavailable; manual review is required."
+    }
+  ]
+}

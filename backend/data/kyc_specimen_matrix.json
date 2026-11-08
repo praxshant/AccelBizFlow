@@ -1,0 +1,609 @@
+{
+  "counts": {
+    "VERIFIED": 40,
+    "ACTION_REQUIRED": 3,
+    "MANUAL_REVIEW": 4
+  },
+  "matrix": [
+    {
+      "file": "K01_address_proof.png",
+      "applicant": "K01",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.824,
+      "fields": {
+        "dates_found": "2026-06-26",
+        "pincode": "118383"
+      },
+      "reason": "Address proof verified and current (19 days old)."
+    },
+    {
+      "file": "K01_gst_certificate.png",
+      "applicant": "K01",
+      "type": "gst_certificate",
+      "status": "ACTION_REQUIRED",
+      "confidence": 0.769,
+      "fields": {
+        "gstin": "37IHKXV5167L1ZS",
+        "dates_found": "2025-06-07",
+        "pincode": "118383"
+      },
+      "reason": "GSTIN 37IHKX*** registration is cancelled/suspended."
+    },
+    {
+      "file": "K01_signatory_id.png",
+      "applicant": "K01",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.961,
+      "fields": {
+        "dates_found": "2028-03-26",
+        "pincode": "346190"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K01_udyam_certificate.png",
+      "applicant": "K01",
+      "type": "udyam_certificate",
+      "status": "MANUAL_REVIEW",
+      "confidence": 0.831,
+      "fields": {
+        "dates_found": "2024-03-24"
+      },
+      "reason": "Udyam certificate processed; registration number requires confirmation."
+    },
+    {
+      "file": "K02_address_proof.png",
+      "applicant": "K02",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.82,
+      "fields": {
+        "udyam_number": "UDYAM-WB-00-5053330",
+        "dates_found": "2026-05-22",
+        "pincode": "713533"
+      },
+      "reason": "Address proof verified and current (54 days old)."
+    },
+    {
+      "file": "K02_gst_certificate.png",
+      "applicant": "K02",
+      "type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "confidence": 0.887,
+      "fields": {
+        "udyam_number": "UDYAM-WB-00-5053330",
+        "dates_found": "2022-04-17",
+        "pincode": "347550"
+      },
+      "reason": "GST certificate processed; GSTIN requires confirmation."
+    },
+    {
+      "file": "K02_signatory_id.png",
+      "applicant": "K02",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.908,
+      "fields": {
+        "udyam_number": "UDYAM-WB-00-5053330",
+        "dates_found": "2028-09-10",
+        "pincode": "816907"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K02_udyam_certificate.png",
+      "applicant": "K02",
+      "type": "udyam_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.817,
+      "fields": {
+        "udyam_number": "UDYAM-WB-00-5053330",
+        "dates_found": "2023-01-11"
+      },
+      "reason": "Udyam registration UDYAM-WB-0*** verified in registry."
+    },
+    {
+      "file": "K03_address_proof.png",
+      "applicant": "K03",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.811,
+      "fields": {
+        "udyam_number": "UDYAM-KR-00-1115424",
+        "dates_found": "2026-05-30",
+        "pincode": "411231"
+      },
+      "reason": "Address proof verified and current (46 days old)."
+    },
+    {
+      "file": "K03_gst_certificate.png",
+      "applicant": "K03",
+      "type": "gst_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.782,
+      "fields": {
+        "gstin": "27XUIXG0767D1ZP",
+        "udyam_number": "UDYAM-KR-00-1115424",
+        "dates_found": "2020-02-10",
+        "pincode": "411231"
+      },
+      "reason": "GSTIN 27XUIX*** is active and verified in registry."
+    },
+    {
+      "file": "K03_signatory_id.png",
+      "applicant": "K03",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.955,
+      "fields": {
+        "udyam_number": "UDYAM-KR-00-1115424",
+        "dates_found": "2028-07-04",
+        "pincode": "447889"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K03_udyam_certificate.png",
+      "applicant": "K03",
+      "type": "udyam_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.79,
+      "fields": {
+        "udyam_number": "UDYAM-MH-00-9516696",
+        "dates_found": "2024-11-21"
+      },
+      "reason": "Udyam registration UDYAM-MH-0*** verified in registry."
+    },
+    {
+      "file": "K04_address_proof.png",
+      "applicant": "K04",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.829,
+      "fields": {
+        "udyam_number": "UDYAM-MH-00-6131836",
+        "dates_found": "2026-05-28",
+        "pincode": "137452"
+      },
+      "reason": "Address proof verified and current (48 days old)."
+    },
+    {
+      "file": "K04_gst_certificate.png",
+      "applicant": "K04",
+      "type": "gst_certificate",
+      "status": "ACTION_REQUIRED",
+      "confidence": 0.184,
+      "fields": {},
+      "reason": "GSTIN number could not be extracted; please re-upload."
+    },
+    {
+      "file": "K04_signatory_id.png",
+      "applicant": "K04",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.915,
+      "fields": {
+        "udyam_number": "UDYAM-MH-00-6131836",
+        "dates_found": "2028-08-03",
+        "pincode": "609396"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K04_udyam_certificate.png",
+      "applicant": "K04",
+      "type": "udyam_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.799,
+      "fields": {
+        "udyam_number": "UDYAM-MH-00-6131836",
+        "dates_found": "2025-05-17"
+      },
+      "reason": "Udyam registration UDYAM-MH-0*** verified in registry."
+    },
+    {
+      "file": "K05_address_proof.png",
+      "applicant": "K05",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.819,
+      "fields": {
+        "udyam_number": "UDYAM-KL-00-5521886",
+        "dates_found": "2026-06-11"
+      },
+      "reason": "Address proof verified and current (34 days old)."
+    },
+    {
+      "file": "K05_gst_certificate.png",
+      "applicant": "K05",
+      "type": "gst_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.769,
+      "fields": {
+        "gstin": "32TZAXB5481U1Z1",
+        "udyam_number": "UDYAM-KL-00-5521886",
+        "dates_found": "2020-07-26"
+      },
+      "reason": "GSTIN 32TZAX*** is active and verified in registry."
+    },
+    {
+      "file": "K05_signatory_id.png",
+      "applicant": "K05",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.909,
+      "fields": {
+        "udyam_number": "UDYAM-KL-00-5521886",
+        "dates_found": "2029-09-11",
+        "pincode": "587234"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K06_address_proof.png",
+      "applicant": "K06",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.805,
+      "fields": {
+        "udyam_number": "UDYAM-RJ-00-6577157",
+        "dates_found": "2026-06-11",
+        "pincode": "194057"
+      },
+      "reason": "Address proof verified and current (34 days old)."
+    },
+    {
+      "file": "K06_gst_certificate.png",
+      "applicant": "K06",
+      "type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "confidence": 0.726,
+      "fields": {
+        "gstin": "08YKZXS8189L1Z0",
+        "udyam_number": "UDYAM-RJ-00-6577157",
+        "dates_found": "2019-09-25",
+        "pincode": "194057"
+      },
+      "reason": "GSTIN not found in synthetic registry; review required."
+    },
+    {
+      "file": "K06_signatory_id.png",
+      "applicant": "K06",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.956,
+      "fields": {
+        "udyam_number": "UDYAM-RJ-00-6577157",
+        "dates_found": "2028-09-15",
+        "pincode": "118354"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K06_udyam_certificate.png",
+      "applicant": "K06",
+      "type": "udyam_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.798,
+      "fields": {
+        "udyam_number": "UDYAM-RJ-00-6577157",
+        "dates_found": "2023-01-24"
+      },
+      "reason": "Udyam registration UDYAM-RJ-0*** verified in registry."
+    },
+    {
+      "file": "K07_address_proof.png",
+      "applicant": "K07",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.84,
+      "fields": {
+        "udyam_number": "UDYAM-GJ-00-0067319",
+        "dates_found": "2026-07-05",
+        "pincode": "334596"
+      },
+      "reason": "Address proof verified and current (10 days old)."
+    },
+    {
+      "file": "K07_gst_certificate.png",
+      "applicant": "K07",
+      "type": "gst_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.768,
+      "fields": {
+        "gstin": "07CPCXN0398P1ZT",
+        "udyam_number": "UDYAM-GJ-00-0067319",
+        "dates_found": "2024-01-13",
+        "pincode": "334596"
+      },
+      "reason": "GSTIN 07CPCX*** is active and verified in registry."
+    },
+    {
+      "file": "K07_signatory_id.png",
+      "applicant": "K07",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.95,
+      "fields": {
+        "udyam_number": "UDYAM-GJ-00-0067319",
+        "dates_found": "2030-05-05",
+        "pincode": "178237"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K07_udyam_certificate.png",
+      "applicant": "K07",
+      "type": "udyam_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.806,
+      "fields": {
+        "udyam_number": "UDYAM-DL-00-9565547",
+        "dates_found": "2024-07-14"
+      },
+      "reason": "Udyam registration UDYAM-DL-0*** verified in registry."
+    },
+    {
+      "file": "K08_address_proof.png",
+      "applicant": "K08",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.788,
+      "fields": {
+        "udyam_number": "UDYAM-BR-00-7880010",
+        "dates_found": "2026-05-26",
+        "pincode": "348176"
+      },
+      "reason": "Address proof verified and current (50 days old)."
+    },
+    {
+      "file": "K08_gst_certificate.png",
+      "applicant": "K08",
+      "type": "gst_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.741,
+      "fields": {
+        "gstin": "24XORXG9365M1Z3",
+        "udyam_number": "UDYAM-BR-00-7880010",
+        "dates_found": "2018-12-01",
+        "pincode": "348176"
+      },
+      "reason": "GSTIN 24XORX*** is active and verified in registry."
+    },
+    {
+      "file": "K08_signatory_id.png",
+      "applicant": "K08",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.947,
+      "fields": {
+        "udyam_number": "UDYAM-BR-00-7880010",
+        "dates_found": "2027-09-18",
+        "pincode": "393148"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K08_udyam_certificate.png",
+      "applicant": "K08",
+      "type": "udyam_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.821,
+      "fields": {
+        "udyam_number": "UDYAM-BR-00-7880010",
+        "dates_found": "2022-11-12"
+      },
+      "reason": "Udyam registration UDYAM-BR-0*** verified in registry."
+    },
+    {
+      "file": "K09_address_proof.png",
+      "applicant": "K09",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.836,
+      "fields": {
+        "udyam_number": "UDYAM-AP-00-9751562",
+        "dates_found": "2026-07-10",
+        "pincode": "405337"
+      },
+      "reason": "Address proof verified and current (5 days old)."
+    },
+    {
+      "file": "K09_gst_certificate.png",
+      "applicant": "K09",
+      "type": "gst_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.783,
+      "fields": {
+        "gstin": "37LDYXK0296F1ZB",
+        "udyam_number": "UDYAM-AP-00-9751562",
+        "dates_found": "2023-09-20",
+        "pincode": "405337"
+      },
+      "reason": "GSTIN 37LDYX*** is active and verified in registry."
+    },
+    {
+      "file": "K09_signatory_id.png",
+      "applicant": "K09",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.941,
+      "fields": {
+        "udyam_number": "UDYAM-AP-00-9751562",
+        "dates_found": "2027-12-22",
+        "pincode": "126040"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K09_udyam_certificate.png",
+      "applicant": "K09",
+      "type": "udyam_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.803,
+      "fields": {
+        "udyam_number": "UDYAM-AP-00-9751562",
+        "dates_found": "2023-07-04"
+      },
+      "reason": "Udyam registration UDYAM-AP-0*** verified in registry."
+    },
+    {
+      "file": "K10_address_proof.png",
+      "applicant": "K10",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.82,
+      "fields": {
+        "udyam_number": "UDYAM-MH-00-7183141",
+        "dates_found": "2026-06-18",
+        "pincode": "570043"
+      },
+      "reason": "Address proof verified and current (27 days old)."
+    },
+    {
+      "file": "K10_gst_certificate.png",
+      "applicant": "K10",
+      "type": "gst_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.749,
+      "fields": {
+        "gstin": "27QHJXK0658U1ZL",
+        "udyam_number": "UDYAM-MH-00-7183141",
+        "dates_found": "2022-07-13",
+        "pincode": "570043"
+      },
+      "reason": "GSTIN 27QHJX*** is active and verified in registry."
+    },
+    {
+      "file": "K10_signatory_id.png",
+      "applicant": "K10",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.934,
+      "fields": {
+        "udyam_number": "UDYAM-MH-00-7183141",
+        "dates_found": "2029-06-01",
+        "pincode": "247542"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K10_udyam_certificate.png",
+      "applicant": "K10",
+      "type": "udyam_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.809,
+      "fields": {
+        "udyam_number": "UDYAM-MH-00-7183141",
+        "dates_found": "2024-01-09"
+      },
+      "reason": "Udyam registration UDYAM-MH-0*** verified in registry."
+    },
+    {
+      "file": "K11_address_proof.png",
+      "applicant": "K11",
+      "type": "address_proof",
+      "status": "ACTION_REQUIRED",
+      "confidence": 0.824,
+      "fields": {
+        "udyam_number": "UDYAM-TN-00-2649689",
+        "dates_found": "2025-10-31",
+        "pincode": "541498"
+      },
+      "reason": "Address proof is 257 days old (maximum 90 days allowed)."
+    },
+    {
+      "file": "K11_gst_certificate.png",
+      "applicant": "K11",
+      "type": "gst_certificate",
+      "status": "MANUAL_REVIEW",
+      "confidence": 0.764,
+      "fields": {
+        "gstin": "03KGZXT1320RIZZ",
+        "udyam_number": "UDYAM-TN-00-2649689",
+        "dates_found": "2019-08-19",
+        "pincode": "541498"
+      },
+      "reason": "GSTIN not found in synthetic registry; review required."
+    },
+    {
+      "file": "K11_signatory_id.png",
+      "applicant": "K11",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.971,
+      "fields": {
+        "udyam_number": "UDYAM-TN-00-2649689",
+        "dates_found": "2028-12-23",
+        "pincode": "440312"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K11_udyam_certificate.png",
+      "applicant": "K11",
+      "type": "udyam_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.836,
+      "fields": {
+        "udyam_number": "UDYAM-TN-00-2649689",
+        "dates_found": "2025-09-15"
+      },
+      "reason": "Udyam registration UDYAM-TN-0*** verified in registry."
+    },
+    {
+      "file": "K12_address_proof.png",
+      "applicant": "K12",
+      "type": "address_proof",
+      "status": "VERIFIED",
+      "confidence": 0.832,
+      "fields": {
+        "udyam_number": "UDYAM-TN-00-3866196",
+        "dates_found": "2026-07-06",
+        "pincode": "762071"
+      },
+      "reason": "Address proof verified and current (9 days old)."
+    },
+    {
+      "file": "K12_gst_certificate.png",
+      "applicant": "K12",
+      "type": "gst_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.742,
+      "fields": {
+        "gstin": "37NBLXS1145E1ZU",
+        "udyam_number": "UDYAM-TN-00-3866196",
+        "dates_found": "2017-01-08",
+        "pincode": "762071"
+      },
+      "reason": "GSTIN 37NBLX*** is active and verified in registry."
+    },
+    {
+      "file": "K12_signatory_id.png",
+      "applicant": "K12",
+      "type": "signatory_id",
+      "status": "VERIFIED",
+      "confidence": 0.946,
+      "fields": {
+        "udyam_number": "UDYAM-TN-00-3866196",
+        "dates_found": "2029-03-03",
+        "pincode": "365512"
+      },
+      "reason": "Signatory identity document quality is acceptable."
+    },
+    {
+      "file": "K12_udyam_certificate.png",
+      "applicant": "K12",
+      "type": "udyam_certificate",
+      "status": "VERIFIED",
+      "confidence": 0.819,
+      "fields": {
+        "udyam_number": "UDYAM-AP-00-5186772",
+        "dates_found": "2024-02-03"
+      },
+      "reason": "Udyam registration UDYAM-AP-0*** verified in registry."
+    }
+  ]
+}
