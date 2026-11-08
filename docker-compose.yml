@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  bizflow-backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/bizflow.sqlite3:/app/bizflow.sqlite3
+      - ./YTL_TrackA_Udyam_Digital_Data:/data/YTL_TrackA_Udyam_Digital_Data:ro
+    environment:
+      - JWT_SECRET=${JWT_SECRET:-change-in-production}
+      - ADVISOR_PROVIDER=${ADVISOR_PROVIDER:-}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
